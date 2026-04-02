@@ -1,2 +1,2 @@
 ## 📺 Project Demo
-https://github.com/ramusakthivel/AI-Powered-Payout-Orchestrator/blob/main/Payout%20Orchestration%20Demo.mp4
+https://github.com/ramusakthivel/AI-Powered-Payout-Orchestrator/releases/download/V1.0.0/Payout.Orchestration.Demo.mp4
