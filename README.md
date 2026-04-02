@@ -1,2 +1,2 @@
 ## 📺 Project Demo
-[video] (https://raw.githack.com/ramusakthivel/AI-Powered-Payout-Orchestrator/main/Payout%20Orchestration%20Demo.mp4)
+https://github.com/ramusakthivel/AI-Powered-Payout-Orchestrator/blob/main/Payout%20Orchestration%20Demo.mp4
